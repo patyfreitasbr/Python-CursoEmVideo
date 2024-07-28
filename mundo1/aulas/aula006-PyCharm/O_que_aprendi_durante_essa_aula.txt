@@ -1,0 +1,3 @@
+O que aprendi durante essa aula?
+- Como funcionam os tipos primitivos no Python e as peculiaridades do int() float() bool() e str() 
+- Como fazer as primeiras operações com a função print() do Python

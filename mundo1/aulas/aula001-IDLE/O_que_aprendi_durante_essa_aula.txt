@@ -1,0 +1,7 @@
+O que aprendi durante essa aula?
+Como usar print
+como usar variaveis
+como atribuir valores a variável usando = (recebe)
+como demonstrar essa variável usando print com "," e com "+"
+como utilizar o input para interagir com o usuário
+como criar scripts separados para serem executados mais adiante
