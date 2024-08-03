@@ -1,4 +1,4 @@
-# PythonEstudos e projetos
+# Python: estudos e projetos
 
 Projetos e estudos da minha jornada e evolução no aprendizado da linguagem de programação Python.<br>
 Projetos desenvolvidos através dos cursos do **Curso em Vídeo do Gustavo Guanabara**
