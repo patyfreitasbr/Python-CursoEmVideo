@@ -11,7 +11,7 @@ Projetos desenvolvidos através dos cursos do **Curso em Vídeo do Gustavo Guana
 
 # Projetos por modulos do curso
 
-- [Python - Mundo 1](https://github.com/patyfreitasbr/estudos-Python/tree/main/CursoEmVideo-Python/mundo1)
+- [Python - Mundo 1](https://github.com/patyfreitasbr/Python-CursoEmVideo/tree/main/mundo1)
 
 ## Como visualizar o projeto
 
