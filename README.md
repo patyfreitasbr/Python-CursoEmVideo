@@ -5,13 +5,17 @@ Projetos desenvolvidos através dos cursos do **Curso em Vídeo do Gustavo Guana
 
 ## Indice 🔗
 
-- [Projetos por modulos do curso](#projetos-por-modulos-do-curso)
+- [Estudos por módulos do curso](#estudos-por-modulos-do-curso)
 - [Como visualizar o projeto](#como-visualizar-o-projeto)
 - [Contato](#contato)
 
-# Projetos por modulos do curso
+# Estudos por módulos do curso
 
-- [Python - Mundo 1](https://github.com/patyfreitasbr/Python-CursoEmVideo/tree/main/mundo1)
+| Curso             | Links                                                                 |
+|-------------------|-----------------------------------------------------------------------|
+| [Python Módulo 1](https://github.com/patyfreitasbr/Python-CursoEmVideo/tree/main/mundo1)  | [Aulas](https://github.com/patyfreitasbr/Python-CursoEmVideo/tree/main/mundo1/aulas) &#124; [Exercícios](https://github.com/patyfreitasbr/Python-CursoEmVideo/tree/main/mundo1/exercicios) &#124; [Desafios](https://github.com/patyfreitasbr/Python-CursoEmVideo/tree/main/mundo1/desafios)               |
+
+
 
 ## Como visualizar o projeto
 
